@@ -1,0 +1,2694 @@
+{
+  "generated_at": "2026-07-26T18:36:15+00:00",
+  "competitions": [
+    {
+      "id": "sr:competition:660",
+      "name": "World Team Cup",
+      "type": "mixed",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2555",
+      "name": "Wimbledon Men Singles",
+      "parent_id": "sr:competition:2553",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2557",
+      "name": "Wimbledon Men Doubles",
+      "parent_id": "sr:competition:2553",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2563",
+      "name": "Wimbledon Mixed Doubles",
+      "parent_id": "sr:competition:2553",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2567",
+      "name": "Australian Open Men Singles",
+      "parent_id": "sr:competition:2565",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2569",
+      "name": "Australian Open Men Doubles",
+      "parent_id": "sr:competition:2565",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2575",
+      "name": "Australian Open Mixed Doubles",
+      "parent_id": "sr:competition:2565",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2579",
+      "name": "French Open Men Singles",
+      "parent_id": "sr:competition:2577",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2581",
+      "name": "French Open Men Doubles",
+      "parent_id": "sr:competition:2577",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2587",
+      "name": "French Open Mixed Doubles",
+      "parent_id": "sr:competition:2577",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2591",
+      "name": "US Open Men Singles",
+      "parent_id": "sr:competition:2589",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2593",
+      "name": "US Open Men Doubles",
+      "parent_id": "sr:competition:2589",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2599",
+      "name": "US Open Mixed Doubles",
+      "parent_id": "sr:competition:2589",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "grand_slam"
+    },
+    {
+      "id": "sr:competition:2603",
+      "name": "ATP Doha, Qatar Men Singles",
+      "parent_id": "sr:competition:2601",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2605",
+      "name": "ATP Doha, Qatar Men Doubles",
+      "parent_id": "sr:competition:2601",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2613",
+      "name": "ATP Basel, Switzerland Men Singles",
+      "parent_id": "sr:competition:2611",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2615",
+      "name": "ATP Basel, Switzerland Men Doubles",
+      "parent_id": "sr:competition:2611",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2619",
+      "name": "ATP Brisbane, Australia Men Singles",
+      "parent_id": "sr:competition:2617",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2621",
+      "name": "ATP Brisbane, Australia Men Doubles",
+      "parent_id": "sr:competition:2617",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2625",
+      "name": "ATP Chennai, India Men Singles",
+      "parent_id": "sr:competition:2623",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2627",
+      "name": "ATP Chennai, India Men Doubles",
+      "parent_id": "sr:competition:2623",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2631",
+      "name": "ATP Auckland, New Zealand Men Singles",
+      "parent_id": "sr:competition:2629",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2633",
+      "name": "ATP Auckland, New Zealand Men Doubles",
+      "parent_id": "sr:competition:2629",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2637",
+      "name": "ATP Sydney, Australia Men Singles",
+      "parent_id": "sr:competition:2635",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2639",
+      "name": "ATP Sydney, Australia Men Doubles",
+      "parent_id": "sr:competition:2635",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2649",
+      "name": "ATP Zagreb, Croatia Men Singles",
+      "parent_id": "sr:competition:2647",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2651",
+      "name": "ATP Zagreb, Croatia Men Double",
+      "parent_id": "sr:competition:2647",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2661",
+      "name": "ATP Paris, France Men Singles",
+      "parent_id": "sr:competition:2659",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2663",
+      "name": "ATP Paris, France Men Doubles",
+      "parent_id": "sr:competition:2659",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2667",
+      "name": "ATP Dubai, UAE Men Singles",
+      "parent_id": "sr:competition:2665",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2669",
+      "name": "ATP Dubai, UAE Men Doubles",
+      "parent_id": "sr:competition:2665",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2679",
+      "name": "ATP Rotterdam, Netherlands Men Singles",
+      "parent_id": "sr:competition:2677",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2681",
+      "name": "ATP Rotterdam, Netherlands Men Doubles",
+      "parent_id": "sr:competition:2677",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2697",
+      "name": "ATP Memphis, USA Men Singles",
+      "parent_id": "sr:competition:2695",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2699",
+      "name": "ATP Memphis, USA Men Doubles",
+      "parent_id": "sr:competition:2695",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2709",
+      "name": "ATP Acapulco, Mexico Men Singles",
+      "parent_id": "sr:competition:2707",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2711",
+      "name": "ATP Acapulco, Mexico Men Doubles",
+      "parent_id": "sr:competition:2707",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2721",
+      "name": "ATP Marseille, France Men Singles",
+      "parent_id": "sr:competition:2719",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2723",
+      "name": "ATP Marseille, France Men Doubles",
+      "parent_id": "sr:competition:2719",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2727",
+      "name": "ATP Buenos Aires, Argentina Men Singles",
+      "parent_id": "sr:competition:2725",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2729",
+      "name": "ATP Buenos Aires, Argentina Men Doubles",
+      "parent_id": "sr:competition:2725",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2733",
+      "name": "ATP Delray Beach, USA Men Singles",
+      "parent_id": "sr:competition:2731",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2735",
+      "name": "ATP Delray Beach, USA Men Doubles",
+      "parent_id": "sr:competition:2731",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2739",
+      "name": "ATP Indian Wells, USA Men Singles",
+      "parent_id": "sr:competition:2737",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2741",
+      "name": "ATP Indian Wells, USA Men Doubles",
+      "parent_id": "sr:competition:2737",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2745",
+      "name": "ATP Miami, USA Men Singles",
+      "parent_id": "sr:competition:2743",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2747",
+      "name": "ATP Miami, USA Men Doubles",
+      "parent_id": "sr:competition:2743",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2751",
+      "name": "ATP Houston, USA Men Singles",
+      "parent_id": "sr:competition:2749",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2753",
+      "name": "ATP Houston, USA Men Doubles",
+      "parent_id": "sr:competition:2749",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2757",
+      "name": "ATP Casablanca, Morocco Men Singles",
+      "parent_id": "sr:competition:2755",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2759",
+      "name": "ATP Casablanca, Morocco Men Doubles",
+      "parent_id": "sr:competition:2755",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2769",
+      "name": "ATP Barcelona, Spain Men Singles",
+      "parent_id": "sr:competition:2767",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2771",
+      "name": "ATP Barcelona, Spain Men Doubles",
+      "parent_id": "sr:competition:2767",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2775",
+      "name": "ATP Stuttgart, Germany Men Singles",
+      "parent_id": "sr:competition:2773",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2777",
+      "name": "ATP Stuttgart, Germany Men Doubles",
+      "parent_id": "sr:competition:2773",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2781",
+      "name": "ATP Rome, Italy Men Singles",
+      "parent_id": "sr:competition:2779",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2783",
+      "name": "ATP Rome, Italy Men Doubles",
+      "parent_id": "sr:competition:2779",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2787",
+      "name": "ATP Madrid, Spain Men Singles",
+      "parent_id": "sr:competition:2785",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2789",
+      "name": "ATP Madrid, Spain Men Doubles",
+      "parent_id": "sr:competition:2785",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2835",
+      "name": "ATP Munich, Germany Men Singles",
+      "parent_id": "sr:competition:2833",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2837",
+      "name": "ATP Munich, Germany Men Doubles",
+      "parent_id": "sr:competition:2833",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2859",
+      "name": "ATP Halle, Germany Men Singles",
+      "parent_id": "sr:competition:2857",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2861",
+      "name": "ATP Halle, Germany Men Doubles",
+      "parent_id": "sr:competition:2857",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2865",
+      "name": "ATP London, Great Britain Men Singles",
+      "parent_id": "sr:competition:2863",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2867",
+      "name": "ATP London, Great Britain Men Doubles",
+      "parent_id": "sr:competition:2863",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2871",
+      "name": "ATP S-Hertogenbosch, Netherlands Men Singles",
+      "parent_id": "sr:competition:2869",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2873",
+      "name": "ATP S-Hertogenbosch, Netherlands Men Doubles",
+      "parent_id": "sr:competition:2869",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2883",
+      "name": "ATP Newport, USA Men Singles",
+      "parent_id": "sr:competition:2881",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2885",
+      "name": "ATP Newport, USA Men Doubles",
+      "parent_id": "sr:competition:2881",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2889",
+      "name": "ATP Bastad, Sweden Men Singles",
+      "parent_id": "sr:competition:2887",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2891",
+      "name": "ATP Bastad, Sweden Men Doubles",
+      "parent_id": "sr:competition:2887",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2935",
+      "name": "ATP Hamburg, Germany Men Singles",
+      "parent_id": "sr:competition:2933",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2937",
+      "name": "ATP Hamburg, Germany Men Doubles",
+      "parent_id": "sr:competition:2933",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2959",
+      "name": "ATP Gstaad, Switzerland Men Singles",
+      "parent_id": "sr:competition:2957",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2961",
+      "name": "ATP Gstaad, Switzerland Men Doubles",
+      "parent_id": "sr:competition:2957",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2965",
+      "name": "ATP Umag, Croatia Men Singles",
+      "parent_id": "sr:competition:2963",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2967",
+      "name": "ATP Umag, Croatia Men Doubles",
+      "parent_id": "sr:competition:2963",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:2971",
+      "name": "ATP Washington, USA Men Singles",
+      "parent_id": "sr:competition:2969",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2973",
+      "name": "ATP Washington, USA Men Doubles",
+      "parent_id": "sr:competition:2969",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:2983",
+      "name": "ATP Cincinnati, USA Men Singles",
+      "parent_id": "sr:competition:2981",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2985",
+      "name": "ATP Cincinnati, USA Men Doubles",
+      "parent_id": "sr:competition:2981",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2995",
+      "name": "ATP Toronto, Canada Men Singles",
+      "parent_id": "sr:competition:2993",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:2997",
+      "name": "ATP Toronto, Canada Men Doubles",
+      "parent_id": "sr:competition:2993",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:3001",
+      "name": "ATP Metz, France Men Singles",
+      "parent_id": "sr:competition:2999",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3003",
+      "name": "ATP Metz, France Men Doubles",
+      "parent_id": "sr:competition:2999",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3007",
+      "name": "ATP Bucharest, Romania Men Singles",
+      "parent_id": "sr:competition:3005",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3009",
+      "name": "ATP Bucharest, Romania Men Doubles",
+      "parent_id": "sr:competition:3005",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3025",
+      "name": "ATP Beijing, China Men Singles",
+      "parent_id": "sr:competition:3023",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3027",
+      "name": "ATP Beijing, China Men Doubles",
+      "parent_id": "sr:competition:3023",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3031",
+      "name": "ATP Tokyo, Japan Men Singles",
+      "parent_id": "sr:competition:3029",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3033",
+      "name": "ATP Tokyo, Japan Men Doubles",
+      "parent_id": "sr:competition:3029",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3067",
+      "name": "ATP Moscow, Russia Men Singles",
+      "parent_id": "sr:competition:3065",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3069",
+      "name": "ATP Moscow, Russia Men Doubles",
+      "parent_id": "sr:competition:3065",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3085",
+      "name": "ATP Shanghai, China Men Singles",
+      "parent_id": "sr:competition:3083",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:3087",
+      "name": "ATP Shanghai, China Men Doubles",
+      "parent_id": "sr:competition:3083",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:3091",
+      "name": "ATP Stockholm, Sweden Men Singles",
+      "parent_id": "sr:competition:3089",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3093",
+      "name": "ATP Stockholm, Sweden Men Doubles",
+      "parent_id": "sr:competition:3089",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3097",
+      "name": "ATP Lyon, France Men Singles",
+      "parent_id": "sr:competition:3095",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3099",
+      "name": "ATP Lyon, France Men Doubles",
+      "parent_id": "sr:competition:3095",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3103",
+      "name": "ATP Vienna, Austria Men Singles",
+      "parent_id": "sr:competition:3101",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3105",
+      "name": "ATP Vienna, Austria Men Doubles",
+      "parent_id": "sr:competition:3101",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:3109",
+      "name": "ATP St. Petersburg, Russia Men Singles",
+      "parent_id": "sr:competition:3107",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3111",
+      "name": "ATP St. Petersburg, Russia Men Doubles",
+      "parent_id": "sr:competition:3107",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3121",
+      "name": "ATP Monte Carlo, Monaco Men Singles",
+      "parent_id": "sr:competition:3119",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:3123",
+      "name": "ATP Monte Carlo, Monaco Men Doubles",
+      "parent_id": "sr:competition:3119",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:3151",
+      "name": "ATP Kitzbuhel, Austria Men Singles",
+      "parent_id": "sr:competition:3149",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3153",
+      "name": "ATP Kitzbuhel, Austria Men Doubles",
+      "parent_id": "sr:competition:3149",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3181",
+      "name": "ATP Nottingham, Great Britain Men Singles",
+      "parent_id": "sr:competition:3179",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3183",
+      "name": "ATP Nottingham, Great Britain Men Doubles",
+      "parent_id": "sr:competition:3179",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3239",
+      "name": "ATP Santiago, Chile Men Singles",
+      "parent_id": "sr:competition:3237",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3241",
+      "name": "ATP Santiago, Chile Men Doubles",
+      "parent_id": "sr:competition:3237",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3245",
+      "name": "ATP Atlanta, USA Men Singles",
+      "parent_id": "sr:competition:3243",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3247",
+      "name": "ATP Atlanta, USA Men Doubles",
+      "parent_id": "sr:competition:3243",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3251",
+      "name": "ATP Belgrade, Serbia Men Singles",
+      "parent_id": "sr:competition:3249",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3253",
+      "name": "ATP Belgrade, Serbia Men Doubles",
+      "parent_id": "sr:competition:3249",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3257",
+      "name": "ATP Kuala Lumpur, Malaysia Men Singles",
+      "parent_id": "sr:competition:3255",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3259",
+      "name": "ATP Kuala Lumpur, Malaysia Men Doubles",
+      "parent_id": "sr:competition:3255",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3263",
+      "name": "ATP Nice, France Men Singles",
+      "parent_id": "sr:competition:3261",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3265",
+      "name": "ATP Nice, France Men Doubles",
+      "parent_id": "sr:competition:3261",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:3999",
+      "name": "ATP Montpellier, France Men Singles",
+      "parent_id": "sr:competition:3997",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:4001",
+      "name": "ATP Montpellier, France Men Doubles",
+      "parent_id": "sr:competition:3997",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:4329",
+      "name": "ATP Winston Salem, USA Men Singles",
+      "parent_id": "sr:competition:4327",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:4331",
+      "name": "ATP Winston Salem, USA Men Doubles",
+      "parent_id": "sr:competition:4327",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:6449",
+      "name": "ATP Sao Paulo, Brazil Men Singles",
+      "parent_id": "sr:competition:6447",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:6451",
+      "name": "ATP Sao Paulo, Brazil Men Doubles",
+      "parent_id": "sr:competition:6447",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:7631",
+      "name": "ATP Eastbourne, Great Britain Men Singles",
+      "parent_id": "sr:competition:7629",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:7633",
+      "name": "ATP Eastbourne, Great Britain Men Doubles",
+      "parent_id": "sr:competition:7629",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:8183",
+      "name": "Olympic Tournament Men Singles",
+      "parent_id": "sr:competition:8181",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:8185",
+      "name": "Olympic Tournament Men Doubles",
+      "parent_id": "sr:competition:8181",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:8191",
+      "name": "Olympic Tournament Mixed Doubles",
+      "parent_id": "sr:competition:8181",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:8285",
+      "name": "ATP Montreal, Canada Men Singles",
+      "parent_id": "sr:competition:8283",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:8287",
+      "name": "ATP Montreal, Canada Men Doubles",
+      "parent_id": "sr:competition:8283",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:9665",
+      "name": "ATP Bogota, Colombia Men Singles",
+      "parent_id": "sr:competition:9663",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:9667",
+      "name": "ATP Bogota, Colombia Men Doubles",
+      "parent_id": "sr:competition:9663",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:11123",
+      "name": "ATP Shenzhen, China Men Singles",
+      "parent_id": "sr:competition:11121",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:11125",
+      "name": "ATP Shenzhen, China Men Doubles",
+      "parent_id": "sr:competition:11121",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:11129",
+      "name": "ATP Rio de Janeiro, Brazil Men Singles",
+      "parent_id": "sr:competition:11127",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:11131",
+      "name": "ATP Rio de Janeiro, Brazil Men Doubles",
+      "parent_id": "sr:competition:11127",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:12315",
+      "name": "ATP Geneva, Switzerland Men Singles",
+      "parent_id": "sr:competition:12313",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12317",
+      "name": "ATP Geneva, Switzerland Men Doubles",
+      "parent_id": "sr:competition:12313",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12321",
+      "name": "ATP Istanbul, Turkey Men Singles",
+      "parent_id": "sr:competition:12319",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12323",
+      "name": "ATP Istanbul, Turkey Men Doubles",
+      "parent_id": "sr:competition:12319",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12327",
+      "name": "ATP Quito, Ecuador Men Singles",
+      "parent_id": "sr:competition:12325",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12329",
+      "name": "ATP Quito, Ecuador Men Doubles",
+      "parent_id": "sr:competition:12325",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12549",
+      "name": "ATP Estoril, Portugal Men Singles",
+      "parent_id": "sr:competition:12547",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:12551",
+      "name": "ATP Estoril, Portugal Men Doubles",
+      "parent_id": "sr:competition:12547",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13389",
+      "name": "ATP Sofia, Bulgaria Men Singles",
+      "parent_id": "sr:competition:13387",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13391",
+      "name": "ATP Sofia, Bulgaria Men Doubles",
+      "parent_id": "sr:competition:13387",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13395",
+      "name": "ATP Los Cabos, Mexico Men Singles",
+      "parent_id": "sr:competition:13393",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13397",
+      "name": "ATP Los Cabos, Mexico Men Doubles",
+      "parent_id": "sr:competition:13393",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13443",
+      "name": "ATP Antwerp, Belgium Men Singles",
+      "parent_id": "sr:competition:13441",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13445",
+      "name": "ATP Antwerp, Belgium Men Doubles",
+      "parent_id": "sr:competition:13441",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13563",
+      "name": "ATP Marrakech, Morocco Men Singles",
+      "parent_id": "sr:competition:13561",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:13565",
+      "name": "ATP Marrakech, Morocco Men Doubles",
+      "parent_id": "sr:competition:13561",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14133",
+      "name": "ATP Chengdu, China Men Singles",
+      "parent_id": "sr:competition:14131",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14135",
+      "name": "ATP Chengdu, China Men Doubles",
+      "parent_id": "sr:competition:14131",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14666",
+      "name": "AO Asia-Pacific Wildcard Playoff Men Singles",
+      "parent_id": "sr:competition:14664",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:14668",
+      "name": "Australian Open Asia-Pacific Wildcard Playoff Men Doubles",
+      "parent_id": "sr:competition:14664",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:14700",
+      "name": "AO Australian Wildcard Playoff Men Singles",
+      "parent_id": "sr:competition:14698",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:14738",
+      "name": "ATP Antalya, Turkey Men Singles",
+      "parent_id": "sr:competition:14736",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14740",
+      "name": "ATP Antalya, Turkey Men Doubles",
+      "parent_id": "sr:competition:14736",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14744",
+      "name": "ATP Budapest, Hungary Men Singles",
+      "parent_id": "sr:competition:14742",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14746",
+      "name": "ATP Budapest, Hungary Men Doubles",
+      "parent_id": "sr:competition:14742",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:14754",
+      "name": "Next Gen ATP Finals Men Singles",
+      "parent_id": "sr:competition:14752",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_next_generation"
+    },
+    {
+      "id": "sr:competition:21406",
+      "name": "ATP World Tour Finals Men Singles",
+      "parent_id": "sr:competition:21404",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_world_tour_finals"
+    },
+    {
+      "id": "sr:competition:21408",
+      "name": "ATP World Tour Finals Men Doubles",
+      "parent_id": "sr:competition:21404",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_world_tour_finals"
+    },
+    {
+      "id": "sr:competition:22839",
+      "name": "ATP Pune, India Men Singles",
+      "parent_id": "sr:competition:22837",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:22841",
+      "name": "ATP Pune, India Men Doubles",
+      "parent_id": "sr:competition:22837",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:27589",
+      "name": "ATP Cordoba, Argentina Men Singles",
+      "parent_id": "sr:competition:27587",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:27591",
+      "name": "ATP Cordoba, Argentina Men Doubles",
+      "parent_id": "sr:competition:27587",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:27595",
+      "name": "ATP Zhuhai, China Men Singles",
+      "parent_id": "sr:competition:27593",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:27597",
+      "name": "ATP Zhuhai, China Men Doubles",
+      "parent_id": "sr:competition:27593",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:31263",
+      "name": "ATP Cup",
+      "type": "mixed",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:31359",
+      "name": "ATP Adelaide, Australia Men Singles",
+      "parent_id": "sr:competition:31357",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:31361",
+      "name": "ATP Adelaide, Australia Men Doubles",
+      "parent_id": "sr:competition:31357",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:31475",
+      "name": "ATP Mallorca, Spain Men Singles",
+      "parent_id": "sr:competition:31473",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:31477",
+      "name": "ATP Mallorca, Spain Men Doubles",
+      "parent_id": "sr:competition:31473",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:31481",
+      "name": "NIU",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      }
+    },
+    {
+      "id": "sr:competition:33159",
+      "name": "ATP Cologne, Germany Men Singles",
+      "parent_id": "sr:competition:33157",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33163",
+      "name": "ATP Cologne, Germany Men Doubles",
+      "parent_id": "sr:competition:33157",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33167",
+      "name": "ATP Cologne II, Germany Men Doubles",
+      "parent_id": "sr:competition:33165",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33169",
+      "name": "ATP Cologne II, Germany Men Singles",
+      "parent_id": "sr:competition:33165",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33173",
+      "name": "ATP Sardinia, Italy Men Singles",
+      "parent_id": "sr:competition:33171",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33175",
+      "name": "ATP Sardinia, Italy Men Doubles",
+      "parent_id": "sr:competition:33171",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33179",
+      "name": "ATP Astana, Kazakhstan Men Singles",
+      "parent_id": "sr:competition:33177",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33181",
+      "name": "ATP Astana, Kazakhstan Men Doubles",
+      "parent_id": "sr:competition:33177",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33484",
+      "name": "ATP Melbourne, Australia Men Doubles",
+      "parent_id": "sr:competition:33482",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33486",
+      "name": "ATP Melbourne, Australia Men Singles",
+      "parent_id": "sr:competition:33482",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33700",
+      "name": "ATP Singapore, Singapore Men Singles",
+      "parent_id": "sr:competition:33698",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33702",
+      "name": "ATP Singapore, Singapore Men Doubles",
+      "parent_id": "sr:competition:33698",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33706",
+      "name": "ATP Marbella, Spain Men Singles",
+      "parent_id": "sr:competition:33704",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33708",
+      "name": "ATP Marbella, Spain Men Doubles",
+      "parent_id": "sr:competition:33704",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33930",
+      "name": "ATP Cagliari, Italy Men Singles",
+      "parent_id": "sr:competition:33928",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:33932",
+      "name": "ATP Cagliari, Italy Men Doubles",
+      "parent_id": "sr:competition:33928",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:34180",
+      "name": "ATP Parma, Italy Men Singles",
+      "parent_id": "sr:competition:34178",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:34182",
+      "name": "ATP Parma, Italy Men Doubles",
+      "parent_id": "sr:competition:34178",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:34216",
+      "name": "ATP Belgrade 2, Serbia Men Singles",
+      "parent_id": "sr:competition:34220",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:34218",
+      "name": "ATP Belgrade 2, Serbia Men Doubles",
+      "parent_id": "sr:competition:34220",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:35845",
+      "name": "ATP Adelaide 2, Australia Men Doubles",
+      "parent_id": "sr:competition:35843",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:35847",
+      "name": "ATP Adelaide 2, Australia Men Singles",
+      "parent_id": "sr:competition:35843",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:35865",
+      "name": "ATP Dallas, USA Men Doubles",
+      "parent_id": "sr:competition:35863",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:35867",
+      "name": "ATP Dallas, USA Men Singles",
+      "parent_id": "sr:competition:35863",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_500"
+    },
+    {
+      "id": "sr:competition:37451",
+      "name": "ATP Seoul, Korea Republic Men Singles",
+      "parent_id": "sr:competition:37449",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37453",
+      "name": "ATP Seoul, Korea Republic Men Doubles",
+      "parent_id": "sr:competition:37449",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37457",
+      "name": "ATP Tel Aviv, Israel Men Singles",
+      "parent_id": "sr:competition:37455",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37459",
+      "name": "ATP Tel Aviv, Israel Men Doubles",
+      "parent_id": "sr:competition:37455",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37463",
+      "name": "ATP Florence, Italy Men Singles",
+      "parent_id": "sr:competition:37461",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37465",
+      "name": "ATP Florence, Italy Men Doubles",
+      "parent_id": "sr:competition:37461",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37469",
+      "name": "ATP Gijon, Spain Men Singles",
+      "parent_id": "sr:competition:37467",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37471",
+      "name": "ATP Gijon, Spain Men Doubles",
+      "parent_id": "sr:competition:37467",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37475",
+      "name": "ATP Naples, Italy Men Singles",
+      "parent_id": "sr:competition:37473",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:37477",
+      "name": "ATP Naples, Italy Men Doubles",
+      "parent_id": "sr:competition:37473",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:38357",
+      "name": "Banja Luka, Bosnia & Herzegovina Men Singles",
+      "parent_id": "sr:competition:38355",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:38359",
+      "name": "Banja Luka, Bosnia & Herzegovina Men Doubles",
+      "parent_id": "sr:competition:38355",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:41218",
+      "name": "ATP Hong Kong, Hong Kong Men Singles",
+      "parent_id": "sr:competition:41216",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:41220",
+      "name": "ATP Hong Kong, Hong Kong Men Doubles",
+      "parent_id": "sr:competition:41216",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:41959",
+      "name": "ATP Almaty, Kazakhstan Men Singles",
+      "parent_id": "sr:competition:41957",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:41961",
+      "name": "ATP Almaty, Kazakhstan Men Doubles",
+      "parent_id": "sr:competition:41957",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:42979",
+      "name": "ATP Hangzhou, China Men Singles",
+      "parent_id": "sr:competition:42977",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:42981",
+      "name": "ATP Hangzhou, China Men Doubles",
+      "parent_id": "sr:competition:42977",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:45935",
+      "name": "ATP Brussels, Belgium Singles",
+      "parent_id": "sr:competition:45933",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:45937",
+      "name": "ATP Brussels, Belgium Doubles",
+      "parent_id": "sr:competition:45933",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:46305",
+      "name": "ATP Indian Wells, USA Mixed Doubles",
+      "parent_id": "sr:competition:2737",
+      "type": "mixed_doubles",
+      "gender": "mixed",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_1000"
+    },
+    {
+      "id": "sr:competition:48174",
+      "name": "ATP Athens, Greece Men Singles",
+      "parent_id": "sr:competition:48172",
+      "type": "singles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    },
+    {
+      "id": "sr:competition:48176",
+      "name": "ATP Athens, Greece Men Doubles",
+      "parent_id": "sr:competition:48172",
+      "type": "doubles",
+      "gender": "men",
+      "category": {
+        "id": "sr:category:3",
+        "name": "ATP"
+      },
+      "level": "atp_250"
+    }
+  ]
+}
