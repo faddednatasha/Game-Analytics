@@ -1,0 +1,28 @@
+# SQLite Database
+tennis.db
+*.sqlite
+*.db
+
+# Python Bytecode and Cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables & Keys
+.env
+*.pem
+
+# IDE / Editor Files
+.vscode/
+.idea/
+.DS_Store
+
+# Streamlit User Settings (keep config.toml, ignore local credentials)
+.streamlit/secrets.toml
