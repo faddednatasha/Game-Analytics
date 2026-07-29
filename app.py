@@ -1,23 +1,52 @@
 import os
 import sqlite3
 import subprocess
+import sys
 import matplotlib.pyplot as plt
 import pandas as pd
 import streamlit as st
 
-# MUST BE THE FIRST STREAMLIT COMMAND
+# MUST BE THE VERY FIRST STREAMLIT COMMAND
 st.set_page_config(
     page_title="Tennis Rankings Explorer", page_icon="🎾", layout="wide"
 )
 
-# Auto-build database if tennis.db is missing on Streamlit Cloud
-if not os.path.exists("tennis.db"):
-    st.info("Initializing database for the first time...")
-    subprocess.run(["python", "schema.py"], check=True)
-    subprocess.run(["python", "load_data.py"], check=True)
+
+# Check if the database exists AND contains actual data
+def init_database():
+    db_needs_init = False
+
+    if not os.path.exists("tennis.db"):
+        db_needs_init = True
+    else:
+        # Check if tables exist inside the database file
+        try:
+            conn = sqlite3.connect("tennis.db")
+            cursor = conn.cursor()
+            cursor.execute(
+                "SELECT name FROM sqlite_master WHERE type='table' AND name='competitors';"
+            )
+            if not cursor.fetchone():
+                db_needs_init = True
+            conn.close()
+        except Exception:
+            db_needs_init = True
+
+    if db_needs_init:
+        st.info("⚡ Initializing database on Streamlit Cloud... Please wait.")
+        # Remove empty or corrupted db file if present
+        if os.path.exists("tennis.db"):
+            os.remove("tennis.db")
+
+        # Run schema and data loader using sys.executable
+        subprocess.run([sys.executable, "schema.py"], check=True)
+        subprocess.run([sys.executable, "load_data.py"], check=True)
+        st.rerun()
+
+
+init_database()
 
 conn = sqlite3.connect("tennis.db", check_same_thread=False)
-
 
 # ---------------------------------------------------------------------
 # Color Scheme of Dashboard
