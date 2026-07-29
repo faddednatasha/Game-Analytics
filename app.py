@@ -2,10 +2,19 @@ import sqlite3
 import pandas as pd
 import streamlit as st
 import matplotlib.pyplot as plt
+import os
+import subprocess
+
+# Auto-build database if tennis.db is missing or empty on Streamlit Cloud
+if not os.path.exists("tennis.db"):
+    st.info("Initializing database for the first time...")
+    import schema
+    import load_data
 
 st.set_page_config(page_title="Tennis Rankings Explorer", page_icon="🎾", layout="wide")
 
 conn = sqlite3.connect("tennis.db", check_same_thread=False)
+
 
 # ---------------------------------------------------------------------
 # color scheme of dashboard
